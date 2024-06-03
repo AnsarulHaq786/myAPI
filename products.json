@@ -1,0 +1,57 @@
+[
+    {
+        "name": "iPhone 12",
+        "price": 799,
+        "feature": true,
+        "rating": 4.5,
+        "createdAt": "2023-01-01T00:00:00Z",
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy S21",
+        "price": 999,
+        "company": "Samsung"
+    },
+    {
+        "name": "P40 Pro",
+        "price": 899,
+        "feature": false,
+        "rating": 4.7,
+        "company": "Huawei"
+    },
+    {
+        "name": "Mi 11",
+        "price": 749,
+        "company": "Xiaomi"
+    },
+    {
+        "name": "Reno 5",
+        "price": 599,
+        "rating": 4.2,
+        "company": "Oppo"
+    },
+    {
+        "name": "iPhone SE",
+        "price": 399,
+        "feature": true,
+        "rating": 4.9,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy A51",
+        "price": 299,
+        "createdAt": "2023-05-20T00:00:00Z",
+        "company": "Samsung"
+    },
+    {
+        "name": "P30 Lite",
+        "price": 349,
+        "feature": false,
+        "company": "Huawei"
+    },
+    {
+        "name": "Redmi Note 10",
+        "price": 199,
+        "company": "Xiaomi"
+    }
+]
